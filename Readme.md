@@ -8,7 +8,7 @@ An interactive, browser-based cybersecurity simulator that visualizes real-time 
 
 ## 🔴 Live Demo
 
-👉 [network-attack-simulator](https://SEU-USUARIO.github.io/network-attack-simulator)
+👉 [network-attack-simulator](https://amanda4ferreira.github.io/network-attack-simulator)
 
 ---
 
@@ -94,4 +94,4 @@ This tool is intended for **educational purposes only**. It simulates attack and
 
 ## 📄 License
 
-MIT © [SEU-USUARIO](https://github.com/SEU-USUARIO)
+MIT © [amanda4ferreira](https://github.com/amanda4ferreira)
