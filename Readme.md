@@ -6,10 +6,6 @@ An interactive, browser-based cybersecurity simulator that visualizes real-time 
 
 ---
 
-## 🔴 Live Demo
-
-👉 [network-attack-simulator](https://amanda4ferreira.github.io/network-attack-simulator)
-
 ---
 
 ## 📸 Preview
